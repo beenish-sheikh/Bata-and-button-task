@@ -1,0 +1,87 @@
+button{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:0.5em;
+    
+    
+}
+
+ #cart-btn{
+     background-color:red;
+     color:white;
+     padding: 10px
+     }
+     #cart-btn:hover{
+         background-color: green;
+         cursor: pointer;
+         
+     }
+
+#start-btn{
+    background-color: yellow;
+    color: blue;
+    border-color: blue;
+    font-size: 1em;
+    padding:10px
+}
+#start-btn:hover{
+    background-color: red;
+    cursor: pointer;
+}
+#login-btn{
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    font-size: large;
+    border-radius: 20px;
+    background-image: linear-gradient(to right,#59d1de,#a7d384); }
+
+#sign-btn{
+    border-radius: 5px;
+    background-color: white;
+    border-color: purple;
+    color: purple;
+    font-size: large;
+    padding: 5px 15px;
+}
+#sign-btn:hover{
+    color: white;
+    background-color:purple;
+    cursor: pointer;
+    }
+#subs-btn{
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: orange;
+}
+#subs-btn:hover{
+    background-color: darkcyan;
+    cursor: pointer;
+}
+
+#tweeter-btn{
+    color:royalblue;
+    background-color: white ;
+    border-color:royalblue;
+    border-radius: 50px;
+    padding: 10px 12px;
+    font-size: 1.5em;
+
+}
+#tweeter-btn:hover{
+    color: white;
+    background-color:royalblue;
+    cursor: pointer;
+}
+footer{
+    height:80px;
+    width: auto;
+    background-color:black;
+    color:white;
+    
+}
+footer:hover .fa-heart{
+    color:red;
+
+}
